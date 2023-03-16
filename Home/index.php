@@ -10,6 +10,9 @@ include "../common2.txt";
 				<div style="font-size:24px">
 					<br>
 					<h1>FEVERY.NET</h1>
+					<p>
+						Welcome to my personal site. Use the navigation bar in the upper right to select a page. Or just play with this widget below.
+					</p>
         			<script type="text/javascript" src="../HomeTool.js"></script>
 					<ul>
 					</ul>
