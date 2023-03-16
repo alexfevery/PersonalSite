@@ -34,6 +34,8 @@ include "../../common2.txt";
 					<img src = "howto//sl2.jpg" alt = "studylock"/>
 					<br><br><br>
 					<img src = "howto//sl3.jpg" alt = "studylock"/>
+					<br><br><br>
+					<a href="https://github.com/alexfevery/ChineseDictionary">Github Development Page</a>
 					</p>
 					
 				</div>

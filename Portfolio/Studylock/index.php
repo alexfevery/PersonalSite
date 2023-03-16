@@ -39,6 +39,8 @@ include "../../common2.txt";
 					<img src = "howto//sl3.jpg" alt = "studylock"/>
 					<br><br><br>
 					<img src = "howto//sl4.jpg" alt = "studylock"/>
+					<br><br><br>
+					<a href="https://github.com/alexfevery/Studylock-Android">Github Development Page</a>
 					</p>
 					
 				</div>
