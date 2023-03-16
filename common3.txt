@@ -1,0 +1,12 @@
+<div class="navbar navbar-inverse navbar-fixed-bottom">
+			<div class="container">
+				<p class="navbar-text pull-left">© 2022 FEVERY.NET</p>
+				<a href="http://fevery.net/contact" class="navbar-btn btn-danger btn pull-right">Contact</a>
+			</div>
+		</div>
+ 
+ 
+                <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+               
+        </body>
+</html>                 
