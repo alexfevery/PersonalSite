@@ -9,7 +9,6 @@ include "../common2.txt";
 			<div class="jumbotron text-center">
 				<div style="font-size:24px">
 					<br>
-					<h1>FEVERY.NET</h1>
 					<h2>About:</h2>
 					<img
           			src="../Alex.jpg"

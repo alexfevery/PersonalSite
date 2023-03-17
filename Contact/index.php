@@ -11,7 +11,6 @@ include "../common2.txt";
 			<div class="jumbotron text-center">
 				<div style="font-size:24px">
 					<br>
-					<h1>FEVERY.NET</h1>
 					<form action="" class="border">
         <h1 class="title">Contact Form</h1>
         <label for="uname"  class="label">Name:</label>

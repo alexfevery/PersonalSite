@@ -30,6 +30,7 @@
     border: 2px solid var(--gray4);
     padding: 20px; 
   }
+  
 .btn-primary {
     background-color:var(--green);
     color:var(--white);
