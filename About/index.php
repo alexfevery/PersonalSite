@@ -17,7 +17,7 @@ include "../common2.txt";
           			width="200"
           			height="200"
         			/>
-					<p>Hello, my name is Alex and this is my introduction. I am a student at PSU studying computer science. When I graduate I want to become a game developer.</p>
+					<p>Hello, my name is Alex and this is my introduction. I am a student at PSU studying computer science. When I graduate I want to become a game developer. I am skilled at computer programming, especially graphics programming and I can also work with CAD files. Though I am still a student I do have experience maintainig the customer database for my current company.</p>
 				</div>
 			</div>
 		</div>
